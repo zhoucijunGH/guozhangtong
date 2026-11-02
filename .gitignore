@@ -1,0 +1,20 @@
+# 本地密钥与个人配置
+.env
+project.private.config.json
+
+# Java
+target/
+*.class
+
+# Node
+node_modules/
+miniapp/dist/
+admin/dist/
+
+# 运行产物
+*.log
+server/uploads/
+
+# IDE
+.idea/
+.vscode/
